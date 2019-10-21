@@ -1,0 +1,31 @@
+{
+  "name": "chatbot_v1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.4.3",
+    "hbs": "^4.0.6",
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodingsophist/Make-It.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/thecodingsophist/Make-It/issues"
+  },
+  "homepage": "https://github.com/thecodingsophist/Make-It#readme",
+  "description": ""
+}
